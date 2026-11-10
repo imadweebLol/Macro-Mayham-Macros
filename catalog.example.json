@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "library": "Macro Mayham Macros",
+  "publisher": "Macro Mayham",
+  "macros": [
+    {
+      "id": "sample",
+      "name": "Example only",
+      "version": "1.0.0",
+      "description": "Example entry, not published",
+      "format": "ahk",
+      "requires": "AutoHotkey v2",
+      "path": "macros/AutoHotkey/sample.ahk",
+      "sha256": "REPLACE_WITH_REAL_HASH",
+      "author": "Macro Mayham"
+    }
+  ]
+}
