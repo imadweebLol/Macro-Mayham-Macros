@@ -2,5 +2,17 @@
   "schemaVersion": 1,
   "library": "Macro Mayham Macros",
   "publisher": "Macro Mayham",
-  "macros": []
+  "macros": [
+    {
+      "id": "ps99-halloween-event-part-4",
+      "name": "PS99 — Halloween Event Part 4",
+      "version": "1.0.0",
+      "description": "Macro Mayham's Halloween Event Part 4 automation for Roblox Pet Simulator 99. Use with AutoHotkey v2; review setup and controls before running.",
+      "format": "ahk",
+      "requires": "AutoHotkey v2.0 or later",
+      "path": "macros/AutoHotkey/HalloweenEventPart4-PS99.ahk",
+      "sha256": "975c4321c4851c7055b568f37241452f189a0fce72ed4598ae331f3ca2e74318",
+      "author": "Macro Mayham"
+    }
+  ]
 }
